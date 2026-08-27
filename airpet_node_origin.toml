@@ -1,0 +1,18 @@
+[node.metadata]
+model = "AirPet-51171-BLE"
+hardware_id = "AP-51171-GEN"
+origin_coordinates = [29.6164311, -95.2130655]
+
+[routing.network]
+domain = "blackcorp.me"
+subdomain = "node-51171.blackcorp.me"
+protocol = "BLE-to-HTTPS-Bridge"
+
+[contact.endpoint]
+email = "erik@blackcorp.me"
+phone = "+14096667081"
+telemetry_active = true
+
+[grid.mesh]
+tracking_mode = "active_sweep"
+disaster_recovery_fallback = "auto_oscillate_base_zero"

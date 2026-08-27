@@ -1,0 +1,11 @@
+[
+    {
+        "node_id": 1,
+        "timestamp": "2026-08-26 19:03:50",
+        "mac_address": "C4:7C:8D:12:34:56",
+        "rssi_level": "-58dBm",
+        "model": "AirPet-51171",
+        "status": "ACTIVE",
+        "routing_endpoint": "node-51171.blackcorp.me"
+    }
+]
